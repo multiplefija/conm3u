@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,  group-title="PPV EVENTOS", PREMIUM | 66
+https://mediacpstreamchile.com:1935/carlosescobar/carlosescobar/playlist.m3u8
 #EXTINF:-1, RADIOS | ADN RADIO TV
 http://unlimited1-cl-claro.dps.live/adntv/adntv.smil/adntv/livestream1/chunks.m3u8
 #EXTINF:-1, RADIOS | TVN

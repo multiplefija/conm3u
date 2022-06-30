@@ -542,7 +542,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075
 #EXTINF:-1  tvg-logo"https://lh3.googleusercontent.com/-H20emk-_gGE/Xb2CvlkCsVI/AAAAAAAAr6c/MvhdPSgNp4I1Q9QAGlqEvJp4QRnyorpkgCK8BGAsYHg/s0/2019-11-02.png" group-title="RADIOS", Adn Radio | CL
 http://unlimited1-cl-claro.dps.live/adntv/adntv.smil/adntv/livestream1/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-DB74taQncQw/XbSnai__c5I/AAAAAAAArt0/jqsOckrCWRMdlGZoE1ecSjJrHivTgt_fQCK8BGAsYHg/s0/2019-10-26.png" group-title="RADIOS", Pauta TV | CL
-https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://infiny.live/uploads/multimedia/2020/10/s_58c1c3ee120b8d1177ea1a41b3943b070.jpg" group-title="RADIOS", Radio Tiempo | CL
 https://unlimited2-cl-isp.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://infiny.live/uploads/multimedia/2020/08/m_7336f6e1e721403d2ca087cde3c254ae0.png" group-title="RADIOS", Infinita | CL

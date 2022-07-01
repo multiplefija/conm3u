@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4cfb6d06-cc60-4e6c-a50b-ca7526afe209-profile_image-70x70.png" group-title="EVENTOS DEPORTIVOS", MultipleFija
 https://mediacpstreamchile.com:1936/carlosescobar/carlosescobar/playlist.m3u8
-#EXTINF:-1  group-title="EVENTOS DEPORTIVOS", C13
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/9fc117d5045b4ea69f66fe3af97f3824/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5f51a916c21eec083ab337a8/3376eb14-439f-41b8-9a76-b56b5c51b08a/0.m3u8?aid=5f0f079d21505c07a75b77bf&uid=Ru1gBFotMO1uMF49OILV8knkPuObr37K&sid=RpFCsgAvTQoPdywEkzP4eEJ8TwarcD8B&pid=19KwmwNMBX2iWXa9Zs63vcH86LK7Mw8vpL&ref=https%3A%2F%2Fwww.13.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=3xzbhtEa4dSH174T5bhs3cohbnWwAhVstQgNUl6vCJnwg7PwXr2RjIk48BWIfa8dhfUHGKefy0S&es=cl-v2-i-e-dd2.cdn.mdstrm.com&ote=1656724860167&ot=tKKQyYGUy9wl_U34aBuQrA&proto=https&pz=cl
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE", Tv Chile | CL
-https://marine2.miplay.cl/tvn/mono.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE", Tv Chile | CL
-https://sv.spliktv.xyz/live/caster/CL/TVN.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE", Mega | CL
@@ -28,6 +22,10 @@ https://marine2.miplay.cl/chilevision/mono.m3u8
 https://sv.spliktv.xyz/live/caster/CL/CHV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE",Tv Chile | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE", Tv Chile | CL
+https://marine2.miplay.cl/tvn/mono.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE", Tv Chile | CL
+https://sv.spliktv.xyz/live/caster/CL/TVN.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas | CL
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas | CL

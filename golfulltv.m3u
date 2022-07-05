@@ -10,9 +10,6 @@ https://mediacpstreamchile.com:1936/tvpremium/tvpremium/playlist.m3u8
 
 #EXTINF:1,-CHILE-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gxWjMix.png" group-title="CHILE",•●★-- 📺 CHILE 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5Hi5XKWAeaBV-gbqAakEQWZq0CxQO72ujg&usqp=CAU" group-title="CHILE",GolFullTV
 https://mediacpstreamchile.com:1936/tvpremium/tvpremium/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CHILE",13 

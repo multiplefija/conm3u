@@ -38,7 +38,7 @@ http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55683
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55684
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55685
-#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png"CHILE",CNN 
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="CHILE",CNN Chile  
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55686
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="CHILE",CNN Chile 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55689

@@ -2,7 +2,7 @@
 
 #EXTINF:1,-GOLFULLTV-
 
-#EXTINF:-1  tvg-logo="https://www.photobox.co.uk/my/photo/full?photo_id=504779650133" group-title="GOLFULLTV",GolFullTV
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/central/images/c/cb/Golfulltv.png/revision/latest?cb=20220722162938" group-title="GOLFULLTV",GolFullTV
 https://5eaccbab48461.streamlock.net:1936/8174/8174/playlist.m3u8
 
 #EXTINF:1,-CHILE-

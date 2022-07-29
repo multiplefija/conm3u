@@ -3,7 +3,7 @@
 #EXTINF:1,-GOLFULLTV-
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/central/images/1/14/Golfulltv22.jpg/revision/latest?cb=20220722172143" group-title="GOLFULLTV",GolFullTV
-https://5eaccbab48461.streamlock.net:1936/8174/8174/playlist.m3u8
+http://51.79.77.108:25461/get.php?username=CARLOS&password=WTpSKdLA56&type=m3u_plus&output=mpegts
 
 #EXTINF:1,-CHILE-
 

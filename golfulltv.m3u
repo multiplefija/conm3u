@@ -3,76 +3,13 @@
 #EXTINF:1,-GOLFULLTV-
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/central/images/1/14/Golfulltv22.jpg/revision/latest?cb=20220722172143" group-title="GOLFULLTV",GolFullTV
-http://51.79.77.108:25461/get.php?username=CARLOS&password=WTpSKdLA56&type=m3u_plus&output=mpegts
+https://5eaccbab48461.streamlock.net:1936/8174/8174/playlist.m3u8
 
 #EXTINF:1,-CHILE-
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5Hi5XKWAeaBV-gbqAakEQWZq0CxQO72ujg&usqp=CAU" group-title="CHILE",GolFullTV
-https://mediacpstreamchile.com:1936/tvpremium/tvpremium/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1200px-Logotipo_de_Canal_13.svg.png" group-title="CHILE",13 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55669
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1200px-Logotipo_de_Canal_13.svg.png" group-title="CHILE",13 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55670
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1200px-Logotipo_de_Canal_13.svg.png" group-title="CHILE",13 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55671
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1200px-Logotipo_de_Canal_13.svg.png" group-title="CHILE",13 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55672
-#EXTINF:-1  tvg-logo="https://es-academic.com/pictures/eswiki/67/Canal13Chile-LogoV2-Cable.png" group-title="CHILE",13C 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55674
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55678
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55679
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55680
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55681
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55682
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55683
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55684
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",Chilevision
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55685
-#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="CHILE",CNN 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55686
-#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="CHILE",CNN Chile 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55689
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/etc.jpg" group-title="CHILE",ETC 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55691
-#EXTINF:-1  tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/etc.jpg" group-title="CHILE",ETC 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55693
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE",La Red TV 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55695
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE",LA Red TV 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55696
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE",La Red 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55697
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE",LA Red TV 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55698
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE",Mega 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55699
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE",Mega 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55700
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE",Mega 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55701
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE",Mega 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55702
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+ 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55703
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+ 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55704
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+ 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55705
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55706
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55707
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55708
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN 
-http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55709
+https://5eaccbab48461.streamlock.net:1936/8174/8174/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/209/795/png-transparent-edificio-corporativo-de-television-nacional-de-chile-tvn-television-nacional-de-chile-television-24horas-cl-varela-santiago-children-s-hospital.png" group-title="CHILE",TVN | CL
 https://marine2.miplay.cl/tvn/mono.m3u8

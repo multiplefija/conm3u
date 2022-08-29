@@ -1,6 +1,11 @@
-#EXTM3U
+EXTM3U
 
 #EXTINF:1,-GOLFULLTV-
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/central/images/1/14/Golfulltv22.jpg/revision/latest?cb=20220722172143" group-title="GOLFULLTV",GolFullTV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5Hi5XKWAeaBV-gbqAakEQWZq0CxQO72ujg&usqp=CAU" group-title="GOLFULLTV",GolFullTV
+https://mediacpstreamchile.com:1936/renatopavez/renatopavez/playlist.m3u8
+
+#EXTINF:1,-CHILE-
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5Hi5XKWAeaBV-gbqAakEQWZq0CxQO72ujg&usqp=CAU" group-title="CHILE",GolFullTV
 https://mediacpstreamchile.com:1936/renatopavez/renatopavez/playlist.m3u8

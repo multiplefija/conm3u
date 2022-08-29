@@ -9,3 +9,59 @@ https://mediacpstreamchile.com:1936/renatopavez/renatopavez/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5Hi5XKWAeaBV-gbqAakEQWZq0CxQO72ujg&usqp=CAU" group-title="CHILE",GolFullTV
 https://mediacpstreamchile.com:1936/renatopavez/renatopavez/playlist.m3u8
+#EXTINF:-1 tvg-id="4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="CHILE", Mega | CL
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png" group-title="CHILE", Meganoticias | CL
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" group-title="CHILE",Tv Chile | CL
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CHILE",24 Horas | CL
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="1232" tvg-name="CHV Contigo" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE", CHV Contigo | CL
+https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV Noticias" tvg-logo="https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png" group-title="CHILE", CHV Noticias | CL
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1200px-Logotipo_de_Canal_13.svg.png" group-title="CHILE",Canal 13 | CL
+http://canal13-m3u.chorroaeboy.repl.co
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13 | CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVaDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png" group-title="CHILE", TV+ | CL
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVCHILE", Bio Bio TV | CL
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.puranoticia.cl/noticias/imag/logos/logo_puranoticia.png" group-title="CHILE", Pura Noticia | CL
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/979_13_Entretencion.png" group-title="CHILE", 13 Entretencion | CL
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1033_13_Prime.png" group-title="CHILE", 13 Prime | CL
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png" group-title="CHILE", 13 Teleseries | CL
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png" group-title="CHILE", 13 Cultura | CL
+https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1199" tvg-name="D13" tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="CHILE", D13 * | CL
+https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV | CL
+https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-id="1152" tvg-name="UCV 2" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="CHILE", UCV 2 | CL
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
+https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
+https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" group-title="CHILE", La Red | CL
+https://sv.spliktv.xyz/live/caster/CL/LARED.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.santiagotelevision.cl/imag/v1/icon/logo_meta.png" group-title="CHILE", Santiago Tv | CL
+https://stv.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR | CL
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/63/6b/6d636b0f-dfa9-6634-7ca6-99bf143bd4d6/source/512x512bb.jpg" group-title="CHILE", Tendencias Prime | CL
+https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/TVS_Televisi%C3%B3n_del_Senado_%282018%29_%28Celeste-Blanco%29.png/revision/latest/scale-to-width-down/200?cb=20180408145825&path-prefix=es" group-title="CHILE",Tv Senado | CL
+https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/CDTV2015.png/revision/latest?cb=20180208152447" group-title="CHILE", Canal Diputados | CL
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png" group-title="CHILE", Rewind Radio y TV * | CL
+https://scl.edge.grupoz.cl/rewindtv/ngrp:live_allhd/playlist.m3u8?PlaylistM3UCL

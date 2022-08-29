@@ -76,7 +76,7 @@ https://scl.edge.grupoz.cl/rewindtv/ngrp:live_allhd/playlist.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVAAAAAAAAwbg/f7tHw2tx4kMuTwzpTSoJQeiprrvTMshuQCK8BGAsYHg/s0/2020-02-24.png" group-title="RADIOS", Radio Tiempo | CL
 https://unlimited2-cl-isp.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVtitle="RADIOS", Radio Infinita | CL
+#EXTINF:-1 tvg-logo="https://infiny.live/uploads/multimedia/2020/08/m_7336f6e1e721403d2ca087cde3c254ae0.png" group-title="RADIOS", Radio Infinita | CL
 https://unlimited2-cl-isp.dps.live/infinitatv/infinitatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVtitle="RADIOS", Radio Romantica | CL
 https://unlimited2-cl-isp.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?PlaylistM3UCL
